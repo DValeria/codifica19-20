@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<text> 
+    il primo xml con validazione
+    <child> elemento figlio </child>
+    <sibling> elemento fratello </sibling>
+</text>
+
+<!--
+    Ho corretto il file eliminando l'elemento <text /> 
+    che, come segnala il parser, è un : Extra content at the end of the document
+    Ho aggiunto un elemento figlio e un elemento fratello
+-->
