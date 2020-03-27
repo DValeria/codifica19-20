@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+    studente: valeria dionisi
+    matricola: 453251
+    corso: codifica di testi 19-20
+-->
+<choice>	
+    <sic> testo con errore </sic>	
+    <cor> testo corretto </cor>	    
+    <b> testo in bold </b>
+    <b> testo in bold-italico </i>
+    <i> testo in italico </i>
+</choice>
+
+<!-- 
+    Errore segnalato dal parser:
+    Opening and ending tag mismatch: b line 7 and i
+        <b> testo bold-talico </i>
+                              ^
+    Ho quindi dimostrato che le specifiche XML non consentono 
+    di sovrapporre i tag di apertura e di chiusura degli elementi annidati (no overlap)
+-->
