@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI SYSTEM "test6.dtd">
+<!--
+    studente: valeria dionisi
+    matricola: 453251
+    corso: codifica di testi 19-20
+-->
+<TEI>
+    <header type="intestazione" lang="ita">
+        contenuto testuale
+    </header>
+    <facsimile source="esCdata" ref="uno">
+        contenuto testuale
+    </facsimile>
+    <testo id="uno" type="esCdata1">
+        contenuto <seg>frammento</seg>testuale
+    </testo>
+</TEI>
+
+<!--validato tramite parser usando comando postvalid-->
