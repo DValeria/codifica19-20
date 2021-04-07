@@ -1,7 +1,0 @@
-<!--
-    studente: valeria dionisi
-    matricola: 453251
-    corso: codifica di testi 19-20
--->
-<!ELEMENT root (child)>
-<!ELEMENT child (#PCDATA)>
