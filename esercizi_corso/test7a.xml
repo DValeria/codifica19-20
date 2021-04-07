@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    studente: valeria dionisi
+    matricola: 453251
+    corso: codifica di testi 19-20
+-->
+<!DOCTYPE root[
+    <!ELEMENT root (child)>
+    <!ELEMENT child (#PCDATA)>
+    <!ATTLIST child type CDATA #FIXED "figlio">
+]>
+<root>
+    <child type="figlio">
+        contenuto testuale
+    </child>
+</root>
+
+<!--validato tramite parser usando comando postvalid-->

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    studente: valeria dionisi
+    matricola: 453251
+    corso: codifica di testi 19-20
+-->
+<text>
+    <titolo>Fate il vostro gioco</titolo>
+    <intestazione>Lunedì</intestazione>
+
+    <pagina n="27">
+        <p>[...] L'odore di neve come fumo denso scen-
+    </pagina>
+    <pagina n="28">deva sulle strade. Un brivido di freddo gli fece chiu-
+    dere la zip del giubbotto fino al mento e calcare il ber-
+    retto di lana in testa.
+        </p>
+    </pagina>
+</text>
+
+<!--
+    esempio di file xml non well formed: 
+    il parser segnala due errori linea 13 e 17 dimostrando così che le 
+    gerarchie non sono rispettate, non è possibile sovrapporre 
+    i tag di apertura e chiusura di elementi diversi
+-->

@@ -1,0 +1,26 @@
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Evelina: edizione digitale della Lettera I</title>
+            </titleStmt>
+        </fileDesc>  
+    </teiHeader> 
+    <text>
+        <front>
+            <!--premessa,dedica-->
+        </front>
+
+        <body>
+            <div>
+                <p>p1</p>
+                <p>p2</p>
+                <p>p3</p>
+            </div>  
+        </body> 
+
+        <back>
+            <!--postfazione, appendice-->
+        </back>
+    </text>
+</TEI>

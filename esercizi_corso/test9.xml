@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<!--
+    studente: valeria dionisi
+    matricola: 453251
+    corso: codifica di testi 19-20
+-->
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Evelina: versione elettronica della Lettera I</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Test relativo a esercitazione</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Evelina</title>
+                    <author>Fanny Burney</author>
+                    <publisher>Fazi Editore srl</publisher>
+                    <date>maggio 2019</date>
+                    <address>
+                        <street>Via Isonzo 42</street>
+                        <name type="city">Roma</name>
+                    </address>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>
+                Codificati dati relativi alla descrizione del file e
+                del documento originale marcando la struttura attraverso 
+                divisione in sezioni e paragrafi
+            </p>
+        </encodingDesc>
+    </teiHeader>
+    <text xml:id="testo-es9">
+        <front>
+            <titlePage>
+                <docEdition>I edizione</docEdition>
+                <docDate>maggio 2019</docDate>
+                <docImprint> 
+                    <publisher>Fazi Editore srl</publisher>
+                    <pubPlace>
+                        <address>
+                            <street>Via Isonzo 42</street>
+                            <name type="city">Roma</name>
+                        </address>
+                    </pubPlace>
+                </docImprint>
+                <docTitle>
+                    <titlePart>Evelina</titlePart>
+                </docTitle>
+                <docAuthor>Fanny Burney</docAuthor>
+            </titlePage>
+        </front>
+        <body>
+            <div type="lettera" n="1">
+                <pb/>
+                <head>Lettera I</head>
+                <opener>
+                    <byline rend="italic">Lady Howard al Rev.Mr Villars</byline>
+                    <placeName>Howard Grove</placeName>
+                </opener>
+                <p>
+                    Esiste forse, mio buon signore, per un cuore amico evento
+                    più penoso della necessità di comunicare una notizia 
+                    sgradevole? In effetti a volte è difficile decidere se è più da
+                    compatire chi deve riferire la brutta notizia o chi ne è il 
+                    destinatario.
+                </p>
+                <p>
+                    Ho appena ricevuto una lettera di Madame Duval: non sa
+                    assolutamente come comportarsi. Sembra desiderosa di 
+                    rimediare ai torti fatti e tuttavia vorrebbe che il mondo la
+                    considerasse irreprensibile. Scaricherebbe volentieri su un 
+                    altro l’odio di quelle disgrazie delle quali è l’unica
+                    responsabile. La sua lettera è violenta, a volte ingiuriosa,
+                    e questo verso di <hi rend="italic">voi</hi>!… Voi, verso il quale quella donna ha
+                    obblighi che sono addirittura più grandi delle sue colpe, ma è
+                    ai nostri consiglii che attribuisce malignamente tutte le 
+                    sofferenze della figlia oltraggiata, della buon’anima di Lady
+                    Belmont. Vi metterò al corrente del tenore generale di quello
+                    che scrive; la lettera in sé non vale la vostra attenzione.
+                </p>
+                <p>
+                    Quella donna mi dice che sono ormai molti anni che
+                    desidera venire in Inghilterra e ciò le ha impedito di scrivere 
+                    per avere informazioni su questo triste argomento, dato che
+                    sperava di farlo personalmente, ma ragioni di carattere<pb/> 
+                    familiare l’hanno ancora trattenuta in Francia, paese che
+                    adesso non prevede di abbandonare. Per questo, dunque, 
+                    recentemente ha fatto del suo meglio per ottenere un 
+                    resoconto fedele degli eventi relativi alla figlia vittima dei
+                    <hi rend="italic">cattivi consigli</hi>; il risultato di questi sforzi le ha dato modo di
+                    sapere che, sul letto di morte, la donna ha lasciato una piccola
+                    orfana. Avendo sentito dire che la fanciulla è ospite presso di 
+                    voi, Madame Duval dice con grande generosità che se voi, 
+                    caro amico, sarete in grado di procurare valide prove del 
+                    legame di parentela che la unisce alla fanciulla, allora potrete
+                    mandarla a Parigi, dove la signora se ne prenderà cura in 
+                    modo adeguato. 
+                </p>
+                <p>
+                    È indubbio che questa donna sia consapevole della
+                    propria condotta contro natura: è evidente, da quello che
+                    scrive, che è ancora volgare e ignorante come quando il
+                    primo marito, Mr Evelyn, ebbe la debolezza di sposarla; e
+                    nemmeno si scusa per essersi rivolta a me anche se l’ho
+                    incontrata una sola volta.
+                </p>
+                <p>
+                    Questa lettera ha provocato in mia figlia Mirvan il vivo
+                    desiderio di conoscere le ragioni che indussero Madame
+                    Duval ad abbandonare la povera Lady Belmont in un 
+                    momento in cui la protezione di una madre era così 
+                    necessaria per la sua pace e per la sua reputazione. Sebbene io
+                    conoscessi personalmente tutte le persone coinvolte in questa
+                    faccenda, l’argomento mi è sempre sembrato di natura troppo
+                    delicata per discuterne con gli interessati; non posso quindi 
+                    soddisfare Mrs Mirvan se non rivolgendomi direttamente a
+                    voi, caro amico.
+                </p>
+                <pb/>
+                <p>
+                    Dicendo che <hi rend="italic">potreste</hi> mandarle la fanciulla, Madame Duval
+                    mira a fare una concessione, quando in realtà lei ha degli 
+                    obblighi. Non pretendo di darvi consigli, amico mio, non a 
+                    voi: alla vostra generosa protezione questa povera orfana
+                    deve ogni cosa. Siete l’unica persona, e la migliore, che possa
+                    giudicare quello che la ragazza dovrebbe fare; ma sono molto
+                    preoccupata per il turbamento e il disagio che questa donna
+                    indegna può causarvi.
+                </p>
+                <p>
+                    Mia figlia e mia nipote si uniscono a me nel desiderio di
+                    essere ricordate a quell’amabile fanciulla; e mi invitano a 
+                    rammentarvi che la visita annuale a Howard Grove, che in
+                    precedenza ci era stata promessa, viene disattesa da più di
+                    quattro anni.
+                </p>
+                <closer>
+                    <salute> 
+                        Caro amico sono, con grande stima, la vostra 
+                        serva e amica rispettosa.
+                    </salute>
+                    <signed>M.Howard</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
