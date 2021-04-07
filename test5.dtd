@@ -1,9 +1,0 @@
-<!--
-    studente: valeria dionisi
-    matricola: 453251
-    corso: codifica di testi 19-20
--->
-<!ELEMENT TEI (header, facsimile?, text+)>      
-<!ELEMENT header (#PCDATA)>  
-<!ELEMENT facsimile (#PCDATA)> 
-<!ELEMENT text (#PCDATA)> 
