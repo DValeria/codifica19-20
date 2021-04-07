@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Virginia Martini Giovio della Torre, in Parigi, 26 luglio 1835</title>
+				<author ref="#VB">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Responsabilità di</resp>
+					<name ref="#AMDG">Angelo Mario Del Grosso</name>
+					<name ref="#DS">Daria Spampinato</name>
+					<name ref="#EC">Erica Capizzi</name>
+				</respStmt>
+				<respStmt>
+					<resp>Trascrizione di</resp>
+					<name ref="#GS">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+
+			<editionStmt>
+				<edition>Edizione digitale
+					<date when="2021-04">Aprile 2021</date>
+				</edition>
+				<respStmt>
+					<resp>Progetto edizione digitale coordinato da</resp>
+					<name ref="#VD">Valeria Dionisi</name>
+				</respStmt>
+				<respStmt>
+					<resp>Codifica di</resp>
+					<name ref="#VD">Valeria Dionisi</name>
+				</respStmt>
+			</editionStmt>
+
+			<publicationStmt>
+				<publisher>Fondazione Bellini</publisher>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+				</availability>
+			</publicationStmt>
+
+			<sourceDesc>
+				<bibl source="#Seminara2017" resp="#GS" ana="488">
+						<citedRange unit="page" from="562" to="562">562</citedRange>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<country>Italia</country>
+						<settlement>Catania</settlement>
+						<repository role="museum" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" n="I-CATm">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.33</idno>					
+						<altIdentifier><idno type="collocation">in esposizione Casa Natale, sala B, vetrina 6, ripiano 2, VI</idno></altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author xml:lang="it" ref="#VB">Vincenzo Bellini</author>
+							<title type="uniform" xml:lang="it">
+								<persName ref="#VB" role="composer">Vincenzo Bellini</persName> a								
+								<persName ref="#VGT">Virginia Martini Giovio della Torre</persName>, in								
+								<placeName ref="#Paris">Parigi</placeName>,								
+								<date when="1835-07-26">26 luglio 1835</date>
+							</title>
+							<textLang mainLang="it">italiano di inizio Ottocento</textLang>
+                            <note>Minuta di lettera.</note>
+							<note>La data di redazione della lettera è stata attribuita da <persName ref="#GS">Seminara</persName> e non presente nel documento originale.</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material>Carta sottile.</material>
+									<watermark>
+                                        Filigrana di forma circolare leggermente visibile sul lato sinistro, angolo in alto del folio <hi facs="#LL1.33_hotspot_1fr_01">fronte-recto</hi> 
+										e <hi facs="#LL1.33_hotspot_1rv_01">retro-verso</hi>. La filigrana risulta leggermente visibile anche sul lato destro, angolo in alto del folio <hi facs="#LL1.33_hotspot_1rr_01">retro-recto</hi>
+										e <hi facs="#LL1.33_hotspot_1fv_01"> fronte-verso</hi>.
+									</watermark>
+									<stamp>Non sono presenti tracce di sigilli, timbri o francobolli.</stamp>
+									<!-- descrizione fisica della lettera -->
+									<p>Lettera in discrete condizioni fisiche, composta da un solo folio piegato a metà nel senso dell'altezza così da risultare suddiviso in quattro facciate. 
+                                    Il testo è presente solo nella facciata che costituisce il fronte, l'inchiostro risulta visibile in trasparenza anche sul retro.
+                                    La carta è sottile e di colore beige.
+                                    L'inchiosto è marrone e forma una <hi facs="#LL1.33_hotspot_1fv_03">macchia</hi> in posizione centrale sul folio fronte-verso.
+                                    La stessa <hi facs="#LL1.33_hotspot_1rv_03">macchia</hi> d'inchiostro traspare sul folio retro-verso.
+									</p>
+									<p>Sulla parte centrale in alto di ogni facciata del folio è visibile l'impronta di una graffetta.<hi facs="#LL1.33_hotspot_1fr_02"/><hi facs="#LL1.33_hotspot_1rr_02"/> <hi facs="#LL1.33_hotspot_1rv_02"/> <hi facs="#LL1.33_hotspot_1fv_02"/>
+									Gli angoli del folio presentano delle pieghe e sulla parte inferiore è presente un piccolo foro e una leggera lacerazione, segni probabilmente dovuti a invecchiamento del supporto materiale.</p>
+								</support>
+								<extent>
+									<measure type="folio">1</measure>				
+									<dimensions unit="mm">
+										<height>204</height>
+										<width>134</width>
+									</dimensions>
+								</extent>
+								<foliation>		
+										Il folio è piegato a metà nel senso dell'altezza, risultano così quattro facciate. 
+								</foliation>
+								<condition>
+									<p>Lettera in discrete condizioni fisiche.</p>
+								</condition>
+							</supportDesc>
+						</objectDesc>
+						<handDesc hands="3">
+                            <handNote xml:id="h3">	
+								<!--seconda mano-->	
+								Sulla parte inferiore del folio fronte-recto è presenta un'aggiunta di  <hi facs="#LL1.33_hotspot_1fr_03">seconda mano</hi> cosituita da due parole e una firma difficilmente leggibili.
+								<!--terza mano-->
+								Sulla diagonale principale del folio fronte-verso, è visibile in alto il <hi facs="#LL1.33_hotspot_1fv_04">codice alfanumerico A26</hi>, in basso un secondo <hi facs="#LL1.33_hotspot_1fv_05">codice</hi> entrambi scritti verticalmente dal basso verso l'alto con matita blu: annotazioni probabilmente dovute ad un catalogatore.
+							</handNote>
+						</handDesc>
+						<sealDesc>							
+							<seal>
+								<p>Non sono presenti tracce di sigilli.</p>
+							</seal>
+						</sealDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<note>	<!-- descrizione del significato della segnatura della lettera -->
+								All'interno del carteggio belliniano (LL), la segnatura LL1.33 identifica la trentatreesima missiva in ordine cronologico del primo sottogruppo, che corrisponde alle lettere scritte da Vincenzo Bellini.
+							</note>
+						</adminInfo>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="#VB" role="composer">Vincenzo Bellini</persName>
+					<placeName ref="#Paris" type="postmark">Parigi</placeName>
+					<date when="1835-07-26">26 luglio 1835</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#VGT">Virginia Martini Giovio della Torre</persName>
+					<placeName ref="#MI" type="receiving">Milano</placeName>		
+				</correspAction >
+				<correspContext>
+					<p>Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+
+			<textClass>
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">			
+					<term resp="#GS"> lettera 					
+					</term>
+				</keywords>
+			</textClass>
+			<langUsage>
+				<language ident="it">italiano di inizio Ottocento</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+
+	<facsimile>
+        <surface n="1" xml:id="LL1.33_folio_1fr"> <!-- FRONTE RECTO-->
+            <graphic url='LL1.33_0001scalato.jpg' width='818.5px' height='1235.5px'/> 
+            <zone ulx="145" uly="117" lrx="416" lry="166" rendition="Line" xml:id="LL1.33_line_1fr_01"/>
+            <zone ulx="283" uly="219" lrx="785" lry="266" rendition="Line" xml:id="LL1.33_line_1fr_02"/>
+            <zone ulx="80" uly="270" lrx="792" lry="305" rendition="Line" xml:id="LL1.33_line_1fr_03"/>
+            <zone ulx="83" uly="314" lrx="799" lry="345" rendition="Line" xml:id="LL1.33_line_1fr_04"/>
+            <zone ulx="79" uly="362" lrx="767" lry="400" rendition="Line" xml:id="LL1.33_line_1fr_05"/>
+            <zone ulx="78" uly="406" lrx="799" lry="454" rendition="Line" xml:id="LL1.33_line_1fr_06"/>
+            <zone ulx="77" uly="458" lrx="793" lry="495" rendition="Line" xml:id="LL1.33_line_1fr_07"/>
+            <zone ulx="79" uly="504" lrx="789" lry="545" rendition="Line" xml:id="LL1.33_line_1fr_08"/>
+            <zone ulx="79" uly="553" lrx="798" lry="588" rendition="Line" xml:id="LL1.33_line_1fr_09"/>
+            <zone ulx="82" uly="600" lrx="798" lry="645" rendition="Line" xml:id="LL1.33_line_1fr_10"/>
+            <zone ulx="72" uly="656" lrx="798" lry="692" rendition="Line" xml:id="LL1.33_line_1fr_11"/>
+            <zone ulx="76" uly="703" lrx="745" lry="732" rendition="Line" xml:id="LL1.33_line_1fr_12"/>
+            <zone ulx="77" uly="749" lrx="777" lry="781" rendition="Line" xml:id="LL1.33_line_1fr_13"/>
+            <zone ulx="78" uly="792" lrx="785" lry="824" rendition="Line" xml:id="LL1.33_line_1fr_14"/>
+            <zone ulx="80" uly="836" lrx="506" lry="871" rendition="Line" xml:id="LL1.33_line_1fr_15"/>
+            <!--filigrana-->
+            <zone ulx="29" uly="15" lrx="141" lry="124" rendition="HotSpot" xml:id="LL1.33_hotspot_1fr_01"/>
+			<!--graffetta-->
+			<zone ulx="389" uly="16" lrx="434" lry="74" rendition="HotSpot" xml:id="LL1.33_hotspot_1fr_02"/>
+            <!--seconda mano-->
+            <zone ulx="539" uly="891" lrx="674" lry="1198" rendition="HotSpot" xml:id="LL1.33_hotspot_1fr_03"/>
+        </surface>
+           
+        <surface n="2" xml:id="LL1.33_folio_1rr"> <!-- RETRO RECTO -->
+            <graphic url='LL1.33_0002scalato.jpg' width='834.5px' height='1235.5px' />
+            <!--filigrana-->
+            <zone ulx="684" uly="21" lrx="801" lry="115" rendition="HotSpot" xml:id="LL1.33_hotspot_1rr_01"/>
+			<!--graffetta-->
+			<zone ulx="395" uly="19" lrx="434" lry="71" rendition="HotSpot" xml:id="LL1.33_hotspot_1rr_02"/>
+            
+        </surface>
+
+        <surface n="3" xml:id="LL1.33_folio_1rv"> <!-- RETRO VERSO -->
+            <graphic url='LL1.33_0003scalato.jpg' width='818.5px' height='1235.5px'/>
+            <!--filigrana-->
+            <zone ulx="29" uly="22" lrx="160" lry="126" rendition="HotSpot" xml:id="LL1.33_hotspot_1rv_01"/>
+			<!--graffetta-->
+			<zone ulx="383" uly="20" lrx="447" lry="100" rendition="HotSpot" xml:id="LL1.33_hotspot_1rv_02"/>
+            <!--macchie inchiostro-->
+            <zone ulx="356" uly="551" lrx="599" lry="799" rendition="HotSpot" xml:id="LL1.33_hotspot_1rv_03"/>
+        </surface>
+
+        <surface n="4" xml:id="LL1.33_folio_1fv"> <!-- FRONTE VERSO -->
+            <graphic url='LL1.33_0004scalato.jpg' width='834.5px' height='1235.5px'/>
+            <!--filigrana-->
+            <zone ulx="691" uly="19" lrx="807" lry="119" rendition="HotSpot" xml:id="LL1.33_hotspot_1fv_01"/>
+			<!--graffetta-->
+			<zone ulx="395" uly="17" lrx="452" lry="100" rendition="HotSpot" xml:id="LL1.33_hotspot_1fv_02"/>
+            <!--macchie inchiostro-->
+            <zone ulx="224" uly="525" lrx="480" lry="1004" rendition="HotSpot" xml:id="LL1.33_hotspot_1fv_03"/>
+            <!--codice alfanumerico A26, terza mano-->
+            <zone ulx="163" uly="121" lrx="614" lry="474" rendition="HotSpot" xml:id="LL1.33_hotspot_1fv_04"/>
+            <!--codice, terza mano-->
+            <zone ulx="615" uly="1044" lrx="716" lry="1118" rendition="HotSpot" xml:id="LL1.33_hotspot_1fv_05"/>    
+        </surface>
+
+	</facsimile>
+
+	<text type="letter" xml:id="LL1.33" subtype="manuscript" n="LL1.33">
+		
+		<!-- non presenti intestazioni, frontespizio, prefazioni, dediche, etc.) -->
+		<body xml:lang="it">
+			<div type="fronte-recto">
+				<pb n="1" xml:id="LL1.33_fol_1fr" facs="LL1.33_folio_1fr"/>
+				<opener n="o_01">
+					<salute  n="ab_01">
+						<s type="sentence" n="s_01">
+							<lb xml:id="LL1.33_lb_1fr_01" n="1" facs="#LL1.33_line_1fr_01"/>
+							<hi rend="align(left)">Mia cara <persName ref="#VGT">Contessa</persName>
+								<supplied resp="#VD" reason="integration">Virginia Martini Giovio della Torre</supplied><ptr target="#LL1_33_note1"/>
+							</hi>
+						</s>
+					</salute>
+				</opener>
+	
+				<div type="letter-body" n="t_01"> 
+					<ab type="parag"  n="ab_02">
+						<s type="sentence" n="s_02">
+                            <lb xml:id="LL1.33_lb_1fr_02" n="2" facs="#LL1.33_line_1fr_02" rend="align(riht)"/>
+                            La <expan><abbr>v</abbr><ex resp="#VD">ost</ex><abbr>ra</abbr></expan> lettera mi giunse un mese 
+							<lb xml:id="LL1.33_lb_1fr_03" n="3" facs="#LL1.33_line_1fr_03"/>
+                            dopo che l<pc type="apostrophe">'</pc>avete scritto<pc type="semicolon">;</pc> quindi sapeva la nuova 
+                            <lb xml:id="LL1.33_lb_1fr_04" n="4" facs="#LL1.33_line_1fr_04"/>
+                            e più dolorosa perdita che venivate di fare<pc type="dot">.</pc><ptr target="#LL1_33_note2"/>
+                        </s>
+                        <s type="sentence" n="s_03">
+                            Povera
+                            <lb xml:id="LL1.33_lb_1fr_05" n="5" facs="#LL1.33_line_1fr_05"/>
+                            <persName ref="#VGT">mia amica</persName><pc type="comma">,</pc> quante disgrazie sul <expan><abbr>v</abbr><ex resp="#VD">ost</ex><abbr>ro</abbr></expan> capo in
+                            <lb xml:id="LL1.33_lb_1fr_06" n="6" facs="#LL1.33_line_1fr_06"/>
+                            punto solo<pc type="exclamative">!</pc> Ma la <expan><abbr>v</abbr><ex resp="#VD">ost</ex><abbr>ra </abbr></expan> sofferenza <w>sostenu
+                            <lb xml:id="LL1.33_lb_1fr_07" n="7" facs="#LL1.33_line_1fr_07" break="no" rend="double stroke"/>
+                            to</w> d<pc type="apostrophe">'</pc>una ragione necessaria ha dovuto in parte
+                            <lb xml:id="LL1.33_lb_1fr_08" n="8" facs="#LL1.33_line_1fr_08"/>
+                            liberarvi da nuova malattia<pc type="comma">,</pc> e spero<pc type="comma">,</pc> e voglio
+                            <lb xml:id="LL1.33_lb_1fr_09" n="9" facs="#LL1.33_line_1fr_09"/>
+                            credere che la <expan><abbr>v</abbr><ex resp="#VD">ost</ex><abbr>ra</abbr></expan> salute vada benino<pc type="dot">.</pc>
+                        </s>
+                        <s type="sentence" n="s_04">
+                            Avrei
+                            <lb xml:id="LL1.33_lb_1fr_10" n="10" facs="#LL1.33_line_1fr_10"/>
+                            desiderato novelle di voi<pc type="semicolon">;</pc> ma persona mi scrive
+                            <lb xml:id="LL1.33_lb_1fr_11" n="11" facs="#LL1.33_line_1fr_11"/>
+                            più<pc type="comma">,</pc> che v<pc type="apostrophe">'</pc>accosti intimamente<pc type="semicolon">;</pc> e se <supplied resp="#VD" reason="integration">Pietro </supplied><persName ref="#PP">Ponzani</persName>
+                            <lb xml:id="LL1.33_lb_1fr_12" n="12" facs="#LL1.33_line_1fr_12"/>
+                            non avesse avuto l<pc type="apostrophe">'</pc>occasione di darmi una 
+                            <lb xml:id="LL1.33_lb_1fr_13" n="13" facs="#LL1.33_line_1fr_13"/>
+                            commissione<pc type="comma">,</pc> neanche avrei saputo il <expan><abbr>v</abbr><ex resp="#VD">ost</ex><abbr>ro</abbr></expan>
+                            <lb xml:id="LL1.33_lb_1fr_14" n="14" facs="#LL1.33_line_1fr_14"/>
+                            nuovo dolore<pc type="semicolon">;</pc> perché essendo in campagna 
+                            <lb xml:id="LL1.33_lb_1fr_15" n="15" facs="#LL1.33_line_1fr_15"/>
+                            non vedo alcuno di <placeName ref="#MI">Milano</placeName>
+                        </s>
+					</ab>
+				</div>
+
+				<div type="closer" n="c_01">
+					<gap reason="absent" resp="#VD"/>
+				</div>
+				<!-- seconda mano -->
+				<div type="add"> 
+					<ab type="paratext" subtype="addition" hand="#h1" xml:id="LL1.33_hs_1fr" facs="#LL1.33_hotspot_1fr_03">					
+						<gap reason="illegible" resp="#VD"/>
+					</ab>
+				</div>
+			</div>
+
+            <div type="retro-recto">
+				<pb n="2" xml:id="LL1.33_fol_1rr" facs="#LL1.33_folio_1rr"/>
+			</div>
+
+			<div type="retro-verso">
+				<pb n="3" xml:id="LL1.33_fol_1rv" facs="#LL1.33_folio_1rv"/>
+			</div>
+
+			<div type="fronte-verso">
+				<pb n="4" xml:id="LL1.33_fol_1fv" facs="#LL1.33_folio_1fv"/> 
+					<ab type="paratext" subtype="addition" hand="#h2" xml:id="LL1.33_hs_1fv" facs="#LL1.33_hotspot_1fv_04">A26</ab>	<!-- terza mano -->
+                    <ab type="paratext" subtype="addition" hand="#h2" xml:id="LL1.33_hs_2fv" facs="#LL1.33_hotspot_1fv_05">
+						<unclear reason="eccentric_ductus" resp="#VD">( c )</unclear>	<!-- terza mano -->
+					</ab>
+			</div>
+
+		</body>
+
+		<back>
+
+			<div type="notes">
+				<div type="ann_notes">
+					<note xml:id="LL1_33_note1" source="#Seminara2017" resp="#GS" ana="834" type="generic">
+						<bibl>	
+							<citedRange unit="page" from="491" to="491">491</citedRange>
+						</bibl>
+						<p> 
+							<persName ref="#VGT"><forename>Virginia</forename><surname>Giovio della Torre</surname></persName> ( <placeName ref="#MI">Milano</placeName><date when="1778">1778</date> - <date when="1836">1836</date> ) 
+                            era una nobile milanese, amica di <persName ref="#GNP">Giuditta Pasta</persName> e di <persName ref="#GCT">Giuditta Turina</persName>.
+                            Moglie del <persName><roleName type="honorific">conte</roleName><forename>Francesco</forename><surname>Martini</surname></persName>, nel <date when="1820">1820</date>
+                            era stata ritratta nelle vesti di Diana da <persName>Francesco Hayez</persName> in uno dei suoi più celebri dipinti.
+                        </p>
+					</note>
+                    
+                    <note xml:id="LL1_33_note2" source="#Seminara2017" resp="#GS" ana="952" type="generic">
+                        <bibl>	
+							<citedRange unit="page" from="562" to="562">562</citedRange>
+						</bibl>
+						<p>
+			                Il <date when="1835-06-15">15 giugno 1835</date> si era spento il marito di <persName ref="#VGT">Virginia Giovio della Torre</persName>,
+                            il <persName><roleName type="honorific">conte</roleName><forename>Francesco</forename><surname>Martini</surname></persName>.
+                        </p>
+					</note>
+				</div>
+
+				<div type="bibliography">
+					<listBibl xml:id="LL1_33_bibliography">
+						<head>Bibliografia della lettera LL1.33</head>
+						
+                        <bibl xml:id="LL1_33_Amore">
+							<ref target="#Amore1894">
+								<bibl>
+									<author>Amore</author>
+                        	        <date when="1894">1894</date>
+									<citedRange unit="page" from="369" to="369">369</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+                        
+                        <bibl xml:id="LL1_33_Cambi">
+							<ref target="#Cambi1943">
+                                <bibl>
+                                    <author>Cambi</author>
+                                    <date when="1943">1943</date>
+                                    <citedRange unit="page" from="568" to="569">568-569</citedRange>
+                                </bibl>
+							</ref>
+						</bibl>
+
+						<bibl xml:id="LL1_33_Neri">
+							<ref target="#Neri2005">
+								<bibl>
+									<author>Neri</author>
+									<date when="2005">2005</date>
+									<citedRange unit="page" from="433" to="433">433</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+
+						<bibl xml:id="LL1_33_Seminara">
+							<ref target="#Seminara2017">
+								<bibl>
+									<author>Seminara</author>
+									<date when="2017">2017</date>
+									<citedRange unit="page" from="562" to="562">562</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+                    </listBibl>
+				</div>
+			</div>
+
+			<div type="lists">
+                <!-- ListPerson -->
+				<listPerson>
+					<head>Lista persone</head>
+                    <!-- Vincenzo Bellini -->
+					<person xml:id="VB" sameAs="http://viaf.org/viaf/39560983"> 
+						<persName role="composer"> 
+							<ref target="http://www.treccani.it/enciclopedia/vincenzo-bellini_(Dizionario-Biografico)"/>
+							<forename>Vincenzo</forename>
+							<forename>Salvatore</forename>
+							<forename>Carmelo</forename>
+							<forename>Francesco</forename> 
+							<surname>Bellini</surname>
+							<addName type="alias">Il Cigno</addName>
+							<roleName type="honorific">Cavaliere della Legione d'onore</roleName> 
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1801-11-03">3 novembre 1801</date>
+							<placeName ref="#CT">
+								<settlement type="municipality">Catania</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1835-09-23">23 settembre 1835</date>
+							<placeName ref="#Put">
+								<settlement type="municipality">Puteaux</settlement>
+								<settlement type="department" key="Paris">Paris</settlement>
+								<country key="FR">France</country>
+							</placeName>
+						</death>       		
+					</person>
+                    <!-- Virginia Giovio della Torre -->
+					<person xml:id="VGT"> 
+						<persName role="unknown">
+							<forename>Virginia</forename>
+							<surname type="maiden">Giovio della Torre</surname>
+							<surname type="married">Martini</surname>
+						</persName>
+						<sex>F </sex>
+						<birth>
+							<date when="1778">1778</date>
+							<placeName ref="#MI">
+									<settlement type="municipality">Milano</settlement>
+									<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1836">1836</date>
+                            	<placeName ref="#MI">
+									<settlement type="municipality">Milano</settlement>
+									<country key="IT">Italia</country>
+							</placeName>
+						</death>
+                        <note source="#Seminara2017" resp="#GS" ana="834">
+						    <bibl>	
+							    <citedRange unit="page" from="491" to="491">491</citedRange>
+                            </bibl>
+                               <p> 
+                                   <persName ref="#VGT"><forename>Virginia</forename><surname>Giovio della Torre</surname></persName>(<placeName ref="#MI">Milano</placeName><date when="1778">1778</date>-<date when="1836">1836</date>)
+                                    era una nobile milanese, amica di <persName ref="#GNP">Giuditta Pasta</persName> e di <persName ref="#GNP">Giuditta Turina</persName>.
+                                    Moglie del <persName> <roleName type="honorific">conte</roleName><forename>Francesco</forename><surname>Martini</surname></persName>, nel <date when="1820">1820</date>
+                                    era stata ritratta nelle vesti di Diana da <persName>Francesco Hayez</persName> in uno dei suoi più celebri dipinti.
+                                </p>
+						</note>
+					</person>
+                    <!-- Francesco Martini -->
+					<person xml:id="FM"> 
+						<persName role="unknown">
+                            <forename>Francesco</forename> 
+							<surname >Martini</surname>
+						</persName>
+						<sex>M </sex>
+						<birth>
+							<date type="unknown"/>
+							<placeName type="unknown" /> 
+						</birth>
+						<death>
+							<date type="unknown"/>
+						</death>
+						<note source="#Seminara2017" resp="#GS" ana="834">
+						    <bibl>	
+							    <citedRange unit="page" from="491" to="491">491</citedRange>
+                            </bibl>
+                               <p> 
+                                    <persName ref="#VGT"><forename>Virginia</forename><surname>Giovio della Torre</surname></persName>(<placeName ref="#MI">Milano</placeName><date when="1778">1778</date>-<date when="1836">1836</date>)
+                                    era una nobile milanese, amica di <persName ref="#GNP">Giuditta Pasta</persName> e di <persName ref="#GNP">Giuditta Turina</persName>.
+                                    Moglie del <persName> <roleName type="honorific">conte</roleName><forename>Francesco</forename><surname>Martini</surname></persName>, nel <date when="1820">1820</date>
+                                    era stata ritratta nelle vesti di Diana da <persName>Francesco Hayez</persName> in uno dei suoi più celebri dipinti.
+                                </p>
+						</note>         		
+					</person>
+                    <!-- Pietro Ponzani -->
+					<person xml:id="PP"> 
+						<persName role="unknown">
+							<forename>Pietro</forename>
+							<surname >Ponzani</surname>
+						</persName>
+						<sex>M </sex>
+						<birth>
+							<date type="unknown"/>
+							<placeName type="unknown" /> 
+						</birth>
+						<death>
+							<date type="unknown"/>
+						</death>
+					</person>
+                    <!-- Francesco Hayez -->
+					<person xml:id="FH"> 
+						<persName role="painter">
+							<ref target="http://www.treccani.it/enciclopedia/francesco-hayez_(Dizionario-Biografico)"/>
+							<forename>Francesco</forename>
+							<surname >Hayez</surname>
+						</persName>
+						<sex>M </sex>
+                        <birth>
+                        	<date when="1791-02-10">10 febbraio 1791</date>
+							<placeName ref="#VE">
+									<settlement type="municipality">Venezia</settlement>
+									<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+                            <date when="1778">10 febbraio 1791</date>
+							<placeName ref="#MI">
+									<settlement type="municipality">Milano</settlement>
+									<country key="IT">Italia</country>
+							</placeName>
+							<date type="unknown"/>
+						</death>
+                        <note source="#Seminara2017" resp="#GS" ana="834">
+						    <bibl>	
+							    <citedRange unit="page" from="491" to="491">491</citedRange>
+                            </bibl>
+                               <p>
+                                    <persName ref="#VGT"><forename>Virginia</forename> <surname>Giovio della Torre</surname></persName> ( <placeName ref="#MI">Milano</placeName><date when="1778">1778</date>-<date when="1836">1836</date> )
+                                    era una nobile milanese, amica di <persName ref="#GNP">Giuditta Pasta</persName> e di <persName ref="#GNP">Giuditta Turina</persName>.
+                                    Moglie del <persName> <roleName type="honorific">conte</roleName> <forename>Francesco</forename> <surname>Martini</surname></persName>, nel <date when="1820">1820</date>
+                                    era stata ritratta nelle vesti di Diana da <persName>Francesco Hayez</persName> in uno dei suoi più celebri dipinti.
+                                </p>
+						</note> 
+					</person>
+                    <!-- Valeria Dionisi -->
+                    <person xml:id="VD"> 
+                        <persName> 
+                            <forename>Valeria</forename>
+                            <surname>Dionisi</surname>
+                        </persName>
+                        <sex>F</sex>
+                        <birth>
+                            <date when="1990-01-26">26 gennaio 1990</date>
+                            <placeName>
+                                <settlement type="municipality">Abbadia San Salvatore</settlement>
+                                <settlement type="provincia" key="SI">Siena</settlement>
+                                <country key="IT">Italia</country>
+                            </placeName>
+                        </birth>
+                    </person>
+                      <!-- Angelo Mario Del Grosso -->
+                    <person xml:id="AMDG" sameAs="https://viaf.org/viaf/323148207835400342025"> 
+                        <persName> 
+                            <forename>Angelo</forename>
+                            <forename>Mario</forename>
+                            <surname>Del Grosso</surname>
+                        </persName>
+                        <sex>M</sex>
+                        <birth>
+                            <date when="1980-02-19">19 febbraio 1980</date>
+                            <placeName>
+                                <settlement type="municipality">Benevento</settlement>
+                                <settlement type="provincia" key="BN">Benevento</settlement>
+                                <country key="IT">Italia</country>
+                            </placeName>
+                        </birth>
+                    </person>
+                      <!-- Daria Spampinato -->
+                    <person xml:id="DS"> 
+                        <persName> 
+                            <forename>Daria</forename>
+                            <surname>Spampinato</surname>
+                        </persName>
+                        <sex>F</sex>
+                        <birth>
+                            <date type="unknown"/>
+                            <placeName type="unknown"/>
+                        </birth>
+                    </person>
+                    <!-- Erica Capizzi -->
+                    <person xml:id="EC"> 
+                        <persName> 
+                            <forename>Erica</forename>
+                            <surname>Capizzi</surname>
+                        </persName>
+                        <sex>F</sex>
+                        <birth>
+                            <date type="unknown"/>
+                            <placeName type="unknown"/>
+                        </birth>
+                    </person>
+                    <!-- Graziella Seminara -->
+                    <person xml:id="GS" sameAs="https://viaf.org/viaf/37139452/"> 
+                        <persName> 
+                            <forename>Graziella</forename>
+                            <surname>Seminara</surname>
+                        </persName>
+                        <sex>F</sex>
+                        <birth>
+                            <date when="1957">1957</date>
+                            <placeName>
+                                <settlement type="municipality">Catania</settlement>
+                                <country key="IT">Italia</country>
+                            </placeName>                        
+                        </birth>
+                    </person>
+                    <!-- Luisa Cambi -->
+                    <person xml:id="LC" sameAs="https://viaf.org/viaf/2582281/"> 
+                        <persName> 
+                            <forename>Luisa</forename>
+                            <surname>Cambi</surname>
+                        </persName>
+                        <sex>F</sex>
+                        <birth>
+                            <date type="unknown"/>
+                            <placeName type="unknown"/>      
+                        </birth>
+                    </person>
+                    <!-- Carmelo Neri -->
+                    <person xml:id="CN" sameAs="https://viaf.org/viaf/76540365/"> 
+                        <persName> 
+                            <forename>Carmelo</forename>
+                            <surname>Neri</surname>
+                        </persName>
+                        <sex>M</sex>
+                        <birth>
+                            <date when="1943">1943</date>
+                            <placeName type="unknown"/>      
+                        </birth>
+                    </person>
+                    <!-- Antonino Amore -->
+                    <person xml:id="AA"> 
+                        <persName> 
+                            <forename>Antonino</forename>
+                            <surname>Amore</surname>
+                        </persName>
+                        <sex>M</sex>
+                        <birth>
+                            <date type="unknown"/>
+                            <placeName type="unknown"/>      
+                        </birth>
+                    </person>
+					
+					<listRelation>
+						<relation name="spouse" mutual="#VGT #FM"/>
+						<relation name="friends" mutual="#VGT #VB"/>
+						<relation name="friends" mutual="#VB #PP"/>
+					</listRelation>
+				</listPerson>
+                <!-- ListPlace -->
+				<listPlace>
+					<head>Lista dei luoghi</head>
+                      <!-- Catania -->
+                    <place xml:id="CT">
+                        <placeName ref="http://www.geonames.org/2525068/catania.html http://www.treccani.it/enciclopedia/catania/">Catania</placeName>
+                        <country key="IT">Italia</country>
+                    </place>
+                    <!-- Puteaux -->
+					<place xml:id="Put">
+						<placeName ref="http://www.geonames.org/2985034 http://www.treccani.it/enciclopedia/puteaux_(Enciclopedia-Italiana)">Puteaux</placeName>
+						<district type="arrondissement">Nanterre</district>
+						<settlement type="city">Paris</settlement>
+						<country key="FR">France</country>
+						<note source="#Seminara2017" resp="#GS" ana="580">
+							<bibl>
+								<citedRange unit="page" from="346" to="346">346</citedRange>
+							</bibl>
+							<p>
+								Puteaux era un sobborgo di 
+								<placeName ref="#Paris">Parigi</placeName>
+								, immerso nel verde e situato sulla 
+								<foreign xml:lang="fr">rive gauche</foreign> 
+								della Senna. Qui Bellini si stabilì dal 26 maggio al 1° novembre 1834 e di nuovo nel 1835 dall'11 maggio al 23 settembre (giorno della morte) nella residenza di Solomon Levy (o Lewis), un facoltoso ebreo inglese che verosimilmente aveva conosciuto nel 1830 a Milano. Levy, che negli anni 1834-35 si trattenne stabilmente a Parigi, apparteneva alla cerchia delle più ristrette frequentazioni francesi del musicista; risiedeva in un lussuoso appartamento in Boulevard des Capucines, ma possedeva anche la residenza di Puteaux.
+							</p>                        											
+						</note>
+					</place>
+                    <!-- Milano -->
+					<place xml:id="MI">
+						<placeName ref="http://www.geonames.org/6542283 http://www.treccani.it/enciclopedia/milano">Milano</placeName>
+						<country key="IT">Italia</country>
+					</place>
+                    <!-- Venezia -->
+                    <place xml:id="VE">
+						<placeName ref="http://www.geonames.org/3164603 http://www.treccani.it/enciclopedia/venezia">Venezia</placeName>
+						<country key="IT">Italia</country>
+					</place>
+                    <!-- Parigi -->
+					<place xml:id="Paris">
+						<placeName ref="https://www.geonames.org/2988507 http://www.treccani.it/enciclopedia/parigi">Parigi</placeName>
+						<country key="FR">Francia</country>
+					</place>
+                    
+					<listRelation>
+                        <!--Luogo di nascita-->
+                        <relation name="birth_place" active="#VB #GS" passive="#CT"/>   
+                        <relation name="birth_place" active="#VGT" passive="#MI"/>
+                        <relation name="birth_place" active="#FH" passive="#VE"/>
+                        <relation name="birth_place" active="#VD" passive="#Abbadia San Salvatore"/>                        
+                        <relation name="birth_place" active="#AMDG" passive="#BN"/>
+                        <!--Luogo di morte-->
+                        <relation name="death_place" active="#VB" passive="#Put"/>
+                        <relation name="death_place" active="#VGT #FH" passive="#MI"/>
+					</listRelation>
+				</listPlace>
+             
+                <!-- ListBibl -->
+				<listBibl>
+                    <head> Bibliografia </head>
+                    <!-- Seminara2017 -->
+                    <bibl xml:id="Seminara2017" type="print">
+						<author ref="#GS">
+							<forename>Graziella </forename> 
+							<surname>Seminara</surname>
+						</author>
+						<title level="m">Vincenzo Bellini. Carteggi</title>
+						<title level="s">Historiae Musicae Cultores</title>
+						<biblScope unit="volume">CXXXI</biblScope>
+						<biblScope unit="page">pp. vi+622</biblScope>
+						<pubPlace>Firenze</pubPlace>
+						<publisher>Leo S. Olschki Editore</publisher>
+						<date when="2017">2017</date>                       
+					</bibl>
+                    <!-- Neri2005 -->
+                    <bibl xml:id="Neri2005" type="print">
+						<author ref="#CN">
+							<forename>Carmelo </forename>
+							<surname>Neri</surname>
+						</author>
+						<title level="m">Vincenzo Bellini. Nuovo Epistolario 1819-1835</title>
+						<pubPlace>Catania</pubPlace>
+						<publisher>Agorà</publisher>
+						<date when="2005">2005</date>
+					</bibl>
+                    <!-- Cambi1943 -->
+                    <bibl xml:id="Cambi1943" type="print">
+						<author ref="#LC">
+							<forename>Luisa </forename> 
+							<surname>Cambi</surname>
+						</author>
+						<title level="m">Vincenzo Bellini</title>
+						<title level="s">Epistolario</title>
+						<biblScope unit="page">pp. 616</biblScope>
+						<pubPlace>Milano</pubPlace>
+						<publisher>A. Mondadori</publisher>
+						<date when="1943">1943</date>                       
+					</bibl>
+                    <!-- Amore1894 -->
+                     <bibl xml:id="Amore1894" type="print">
+                        <author ref="#AA">
+                        	<forename>Antonino</forename>
+                        	<surname>Amore</surname>
+                        </author>
+                        <title level="m">Vincenzo Bellini. Vita. Studi e ricerche</title>
+                        <pubPlace>Catania</pubPlace>
+                        <publisher>Giannotta</publisher>
+                        <date when="1894">1894</date>
+                     </bibl>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
